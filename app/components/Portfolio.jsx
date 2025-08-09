@@ -82,7 +82,7 @@ export default function PortfolioPage(){
               <a href="#contact" className="hover:text-white">Contact</a>
             </div>
             <div className="ml-4 flex items-center gap-2">
-              <a href="/Abhishek_Resume.pdf" target="_blank" rel="noreferrer" className="text-sm px-3 py-1 rounded-md border border-neutral-800 hover:bg-neutral-800">Resume</a>
+              <a href="https://drive.google.com/file/d/1KDCw6yxn0KNBVcif0v8oQlUxRhX2u_nf/view?usp=sharing" target="_blank" rel="noreferrer" className="text-sm px-3 py-1 rounded-md border border-neutral-800 hover:bg-neutral-800">Resume</a>
               <a href="#contact" className="text-sm px-3 py-1 rounded-md bg-red-600 hover:bg-red-700">Hire me</a>
             </div>
           </nav>
@@ -273,7 +273,7 @@ export default function PortfolioPage(){
                 <textarea name="message" placeholder="Message" rows={6} required className="px-3 py-2 bg-transparent border border-neutral-800 rounded-md"></textarea>
                 <div className="flex gap-3">
                   <button className="px-4 py-2 bg-red-600 rounded-md">Send message</button>
-                  <a href="/Abhishek_Resume.pdf" target="_blank" rel="noreferrer" className="px-4 py-2 border border-neutral-800 rounded-md">Download resume</a>
+                  <a href="https://drive.google.com/file/d/1KDCw6yxn0KNBVcif0v8oQlUxRhX2u_nf/view?usp=sharing" target="_blank" rel="noreferrer" className="px-4 py-2 border border-neutral-800 rounded-md">Download resume</a>
                 </div>
               </div>
             </form>
